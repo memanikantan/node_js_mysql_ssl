@@ -10,3 +10,5 @@ express --view=ejs myapp
 
 
 # Start database using Docker mysql
+# In progress done upto SSL certs
+# https://techsparx.com/software-development/docker/damp/mysql-ssl-connection.html
